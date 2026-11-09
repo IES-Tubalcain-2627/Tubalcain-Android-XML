@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CINEMAX</string>
+    <string name="titulo">🎬 CINEMAX</string>
+    <string name="subtitulo">Reserva tus entradas (simulación)</string>
+    <string name="label_pelicula">Elige una película</string>
+    <string name="label_entradas">Número de entradas</string>
+    <string name="hint_entradas">De 1 a 10</string>
+    <string name="precio_entrada">Precio por entrada: 8,00 €</string>
+    <string name="calcular">CALCULAR PRECIO</string>
+    <string name="total_inicial">Total: —</string>
+    <string name="resultado_total">%1$s · %2$d entrada(s)
+Total: %3$d,00 €</string>
+    <string name="error_entradas">Introduce entre 1 y 10 entradas</string>
+    <string name="opciones">OPCIONES</string>
+    <string name="reiniciar">Reiniciar cálculo</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="acerca_de">CINEMAX XML · Proyecto de clase DAM2</string>
+    <string name="nota">Ejercicio educativo: no se realiza ninguna compra real.</string>
+</resources>
